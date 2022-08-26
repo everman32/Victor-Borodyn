@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Victor</h1>
 <h3 align="center">A passionate backend developer from Belarus</h3>
-<img align="right" alt="Coding" width="220" src="https://miro.medium.com/max/1400/1*vJjJ3Mdok6Rvxx85IIRqBQ.gif">
+<img align="right" alt="Coding" width="250" src="assets/code.gif">
 
 - 🌱 I’m currently learning **NodeJS, Express, NestJS**
 
