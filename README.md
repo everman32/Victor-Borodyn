@@ -34,6 +34,6 @@
 ![spring](https://raw.githubusercontent.com/everman32/everman32/main/assets/apps_tools/spring.svg)
 ![reactjs](https://raw.githubusercontent.com/everman32/everman32/main/assets/apps_tools/react.svg)<br/>
 
-![stats](https://github-readme-stats.vercel.app/api?username=everman32&theme=github_dark&show_icons=true&count_private=true&hide_border=true&card_width=400px&line_height=20)
-![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=everman32&theme=github_dark&layout=compact&hide_border=true) <br/>
-![streak](https://github-readme-streak-stats.herokuapp.com/?user=everman32&theme=github-dark&hide_border=true&dates=4C8EDA&ring=4C8EDA&stroke=1F6FEA&fire=EB5454)
+![stats](https://github-readme-stats.vercel.app/api?username=everman32&theme=github_dark&show_icons=true&count_private=true&hide_border=true&card_width=400px&line_height=20&disable_animations=true)
+![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=everman32&theme=github_dark&layout=compact&hide_border=true&disable_animations=true) <br/>
+![streak](https://github-readme-streak-stats.herokuapp.com/?user=everman32&theme=github-dark&hide_border=true&dates=4C8EDA&ring=4C8EDA&stroke=1F6FEA&fire=EB5454&disable_animations=true)
