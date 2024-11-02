@@ -1,11 +1,7 @@
 ### Hi 👋, I'm Victor, a passionate backend engineer. I Work👨‍💻 with:
 
-![javascript](https://raw.githubusercontent.com/everman32/everman32/main/assets/apps_tools/javascript.svg) 
-![typescript](https://raw.githubusercontent.com/everman32/everman32/main/assets/apps_tools/typescript.svg)
-![nodejs](https://raw.githubusercontent.com/everman32/everman32/main/assets/apps_tools/nodejs.svg)
-![express](https://raw.githubusercontent.com/everman32/everman32/main/assets/apps_tools/express.svg)
-![nestjs](https://raw.githubusercontent.com/everman32/everman32/main/assets/apps_tools/nestjs.svg)
-![jest](https://raw.githubusercontent.com/everman32/everman32/main/assets/apps_tools/jest.svg)
+![java](https://raw.githubusercontent.com/everman32/everman32/main/assets/apps_tools/java.svg)
+![spring](https://raw.githubusercontent.com/everman32/everman32/main/assets/apps_tools/spring.svg)
 ![linux](https://raw.githubusercontent.com/everman32/everman32/main/assets/apps_tools/linux.svg)
 ![aws](https://raw.githubusercontent.com/everman32/everman32/main/assets/apps_tools/aws.svg)
 ![ansible](https://raw.githubusercontent.com/everman32/everman32/main/assets/apps_tools/ansible.svg)
@@ -27,12 +23,9 @@
 ### I have experience🚀 with:
 
 ![c](https://raw.githubusercontent.com/everman32/everman32/main/assets/apps_tools/c.svg)
+![javascript](https://raw.githubusercontent.com/everman32/everman32/main/assets/apps_tools/javascript.svg) 
 ![cplusplus](https://raw.githubusercontent.com/everman32/everman32/main/assets/apps_tools/cplusplus.svg)
 ![csharp](https://raw.githubusercontent.com/everman32/everman32/main/assets/apps_tools/csharp.svg)
-![java](https://raw.githubusercontent.com/everman32/everman32/main/assets/apps_tools/java.svg)
-![dotnetcore](https://raw.githubusercontent.com/everman32/everman32/main/assets/apps_tools/dotnetcore.svg)
-![spring](https://raw.githubusercontent.com/everman32/everman32/main/assets/apps_tools/spring.svg)
-![reactjs](https://raw.githubusercontent.com/everman32/everman32/main/assets/apps_tools/react.svg)<br/>
 
 ![stats](https://github-readme-stats.vercel.app/api?username=everman32&theme=github_dark&show_icons=true&count_private=true&hide_border=true&card_width=400px&line_height=20&disable_animations=true)
 ![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=everman32&theme=github_dark&layout=compact&hide_border=true&disable_animations=true) <br/>
